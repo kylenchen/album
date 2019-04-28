@@ -203,3 +203,13 @@
 	border-color:#333;
 	background:transparent;
 }
+
+#music{
+	width: 18%;
+  height: 8%;
+	position: fixed;
+	right: 10px;
+	top: 0px;
+	margin:10px;
+	z-index:1;
+}
